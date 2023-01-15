@@ -34,7 +34,18 @@ Working structure:
 
 Spring cloud Server code github repo: 
 
+	curl --location --request POST 'http://localhost:9090/actuator/busrefresh'
+	curl --location --request POST 'http://localhost:9090/actuator/refresh'
+
 		
+Client Repositories:
+
+	https://github.com/NithishReddy/springclienttwo
+	https://github.com/NithishReddy/springclientone
+
+SpringProfiles:
+
+	https://github.com/NithishReddy/springprofiles
 
 
 
